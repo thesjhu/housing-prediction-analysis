@@ -16,6 +16,9 @@ This analysis is designed for stakeholders in the mortgage, insurance, and real 
 *   **Visualization:** Seaborn, Matplotlib
 *   **Dataset:** Ames Housing (Fetch via OpenML)
 
+![chart](chart1.png)
+![chart](chart2.png)
+
 ### **Methodology & Implementation**
 
 **1. Data Preprocessing**
